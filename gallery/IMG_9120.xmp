@@ -1,0 +1,114 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+    xmlns:exifEX="http://cipa.jp/exif/1.0/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:crd="http://ns.adobe.com/camera-raw-defaults/1.0/"
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmp:Rating="5"
+   xmp:ModifyDate="2020-11-08T18:32:12.00"
+   xmp:CreateDate="2020-11-08T18:32:12.00"
+   xmp:MetadataDate="2020-11-15T13:50:34-07:00"
+   tiff:Make="Canon"
+   tiff:Model="Canon EOS REBEL T5i"
+   tiff:Orientation="1"
+   tiff:ImageWidth="5184"
+   tiff:ImageLength="3456"
+   tiff:PhotometricInterpretation="2"
+   tiff:SamplesPerPixel="3"
+   exif:ExifVersion="0230"
+   exif:ExposureTime="1/80"
+   exif:ShutterSpeedValue="6321928/1000000"
+   exif:FNumber="9/1"
+   exif:ApertureValue="633985/100000"
+   exif:ExposureProgram="8"
+   exif:SensitivityType="2"
+   exif:RecommendedExposureIndex="100"
+   exif:ExposureBiasValue="0/1"
+   exif:MaxApertureValue="3625/1000"
+   exif:MeteringMode="5"
+   exif:FocalLength="20/1"
+   exif:CustomRendered="0"
+   exif:ExposureMode="0"
+   exif:WhiteBalance="0"
+   exif:SceneCaptureType="0"
+   exif:FocalPlaneXResolution="5184000/894"
+   exif:FocalPlaneYResolution="3456000/597"
+   exif:FocalPlaneResolutionUnit="2"
+   exif:DateTimeOriginal="2020-11-08T18:32:12.00"
+   exif:PixelXDimension="5184"
+   exif:PixelYDimension="3456"
+   aux:SerialNumber="082031012332"
+   aux:LensInfo="18/1 135/1 0/0 0/0"
+   aux:Lens="EF-S18-135mm f/3.5-5.6 IS STM"
+   aux:LensID="4142"
+   aux:LensSerialNumber="000004fe0c"
+   aux:ImageNumber="0"
+   aux:ApproximateFocusDistance="114/10"
+   aux:FlashCompensation="0/1"
+   aux:Firmware="1.1.1"
+   exifEX:LensModel="EF-S18-135mm f/3.5-5.6 IS STM"
+   photoshop:DateCreated="2020-11-08T18:32:12.00"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile=""
+   photoshop:SidecarForExtension="CR2"
+   photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
+   xmpMM:DocumentID="C7527B7DA2FE9FC5D369DEF95ED3724D"
+   xmpMM:OriginalDocumentID="C7527B7DA2FE9FC5D369DEF95ED3724D"
+   xmpMM:InstanceID="xmp.iid:0a923544-752a-47e7-adb7-fb287b95fcd7"
+   dc:format="image/x-canon-cr2"
+   crd:CameraProfile="Camera Auto"
+   crd:LookName=""
+   crs:HasSettings="False"
+   crs:CropTop="0"
+   crs:CropLeft="0"
+   crs:CropBottom="1"
+   crs:CropRight="1"
+   crs:CropAngle="0"
+   crs:CropConstrainToWarp="0"
+   crs:HasCrop="True"
+   crs:AlreadyApplied="False">
+   <tiff:BitsPerSample>
+    <rdf:Seq>
+     <rdf:li>16</rdf:li>
+     <rdf:li>16</rdf:li>
+     <rdf:li>16</rdf:li>
+    </rdf:Seq>
+   </tiff:BitsPerSample>
+   <exif:ISOSpeedRatings>
+    <rdf:Seq>
+     <rdf:li>100</rdf:li>
+    </rdf:Seq>
+   </exif:ISOSpeedRatings>
+   <exif:Flash
+    exif:Fired="False"
+    exif:Return="0"
+    exif:Mode="2"
+    exif:Function="False"
+    exif:RedEyeMode="False"/>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:5032dbe8-5447-4e50-a21e-e7db8f3cc993"
+      stEvt:when="2020-11-09T11:55:43-07:00"
+      stEvt:softwareAgent="Adobe Photoshop Camera Raw 12.4"
+      stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:0a923544-752a-47e7-adb7-fb287b95fcd7"
+      stEvt:when="2020-11-15T13:50:34-07:00"
+      stEvt:softwareAgent="Adobe Photoshop Camera Raw 12.4 (Macintosh)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
