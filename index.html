@@ -1,6 +1,64 @@
 ---
 layout: default
 ---
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Alert Box</title>
+<style type="text/css">
+
+#alertwrap {
+	width:350px;
+	margin:0 auto;
+	padding-bottom:10px;
+	background:#1565c1;
+	border:1px solid #000;
+	text-align: center;
+}
+
+#alertwrap h2 {
+	text-align:center; 
+	background:#1565c1;
+	color: #fff;
+}
+
+#alertwrap p.tooltip {
+	position:relative;
+	padding-top:0;
+	text-align:center;
+	background:#fff;
+	font-weight: 700;
+}
+
+#alertwrap p.tooltip a {
+	color: #c75300;
+	text-decoration:none;
+}
+
+* html p.tooltip, 
+* html p.tooltip a:hover {
+	display:inline-block;
+}
+
+#alertwrap p.tooltip a span {
+	position:absolute;
+	width:300px;
+	top:-50px;
+	left:20%;
+	margin-left:-62px;
+	padding:15px;
+	visibility:hidden;
+	background:#fff;
+	border:2px solid #c75300;
+	color:#1565c1;
+	font-size:.9em;
+}
+
+#alertwrap p.tooltip a:hover span {
+	visibility:visible;
+}
+
+</style>
+</head>
 
 <!-- Main -->
 <div id="main">
@@ -9,6 +67,10 @@ layout: default
     <h1>{{ site.header }}</h1>
     <h2>{{ site.subheader }}</h2>
     <p>{{ site.bio }}</p>
+    <div id="alertwrap">
+    <h2>Headline</h2>
+    <p class="tooltip"><a href="about.html" title="About link">More information &hellip;<span>Click here for more information about my project.</span></a></p>
+    </div>
     {% if site.social %}
       <ul class="icons">
         {% if site.social.twitter_username and site.social.twitter_username != "" %}
